@@ -1,4 +1,6 @@
-### Hi there 👋 I'm currently studying to become a Blockchain Developer.
+### Hi there 👋 I'm a developer with a strong focus on Blockchain and Web3.
+🚀 Blockchain & Web3
+🎨 Figma & Web Design
 
 <!--
 **soderlinds/soderlinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
