@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a developer with a strong focus on Blockchain and Web3.
+### Hi there 👋 I'm a developer with a strong focus on Blockchain and Web3. I love frontend development, design, and building engaging digital experiences.
 
 
 <!--
